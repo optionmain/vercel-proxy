@@ -1,0 +1,8 @@
+{
+  "name": "vercel-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "http-proxy-middleware": "^2.0.6"
+  }
+}
